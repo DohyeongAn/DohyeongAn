@@ -16,14 +16,13 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C Sharp-368CCB?style=flat-square&logo=C Sharp&logoColor=white"/>
   <!--
   <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/>
   -->
 </div>
  <br>
  <div align="left">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bum2us&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=com"/>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=bum2us&show_icons=true&theme=dracula"/>  
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DohyeongAn&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=com"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DohyeongAn&show_icons=true&theme=dracula"/>  
  </div>
 
