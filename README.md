@@ -1,13 +1,13 @@
- {
-        "idx": 14,
+  {
+        "idx": 22,
         "color": {
-            "0" : "B993D6",
-            "100" : "8CA6DB"
+            "0" : "5C258D",
+            "100" : "4389A2"
         },
         "text": "f7f5f5",
         "textBg": "282829"
     }
- ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=안녕하세요,&nbsp;초보개발자&nbsp;안도형입니다.&nbsp;&fontSize=20&fontAlign=80&fontAlignY=40&color=_custom_gradient)
+ ![Waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=안녕하세요,&nbsp;초보개발자&nbsp;안도형입니다.&nbsp;&fontSize=20&fontAlign=80&fontAlignY=40&color=0:5C258D,100:4389A2)
 <div align="left">
  <h3 align="left">💾 My Project url</h3>
  <a href="http://3.38.214.0/"> <strong>📍 ALBUM'S</strong> http:/</a> 
