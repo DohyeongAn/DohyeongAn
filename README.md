@@ -1,5 +1,5 @@
 ## Waving <a id="waving">
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
+![🛸 Hi, I'm Dohyeong An 🛸](https://capsule-render.vercel.app/api?type=waving&height=200&text=Waving!&fontAlign=80&fontAlignY=40&color=gradient)
 <h1 align="center"> 🛸 Hi, I'm Dohyeong An 🛸 </h1>
 
 <div align="left">
