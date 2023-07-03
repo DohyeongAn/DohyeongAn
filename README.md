@@ -8,11 +8,8 @@
  <a href="http://3.38.214.0:8081/"> <strong>📍 SPACE MARKET</strong> http://3.38.214.0:8081/  www.spacemarket.website</a> 
  <br>
  <h3 align="left">🛠 Skills</h3><br>
-  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=flat-square&logo=Amazon RDS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=Amazon ECS&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/jQuery-FA320A?style=flat-square&logo=jQuery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/><br><br>
   <img src="https://img.shields.io/badge/Apache Tomcat-FA320A?style=flat-square&logo=Apache Tomcat&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
