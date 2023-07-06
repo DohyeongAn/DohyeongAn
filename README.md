@@ -24,3 +24,13 @@
  <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DohyeongAn&show_icons=true&theme=dracula"/>  
  </div>
+
+
+### ⚡My Git
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DohyeongAn)](https://github.com/DohyeongAn/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyeongAn)](https://github.com/DohyeongAn/github-readme-stats)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wkdtpwhs)](https://solved.ac/wkdtpwhs/)
+
+![snake gif](https://github.com/DohyeongAn/DohyeongAn/blob/output/github-contribution-grid-snake.svg)
