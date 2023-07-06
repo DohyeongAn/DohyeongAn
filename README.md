@@ -23,7 +23,10 @@
  <br>
  <div align="left">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=DohyeongAn&show_icons=true&theme=dracula"/>  
+  
  </div>
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DohyeongAn\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=DohyeongAn&layout=compact&langs_count=8&card_width=320"\&bg_color=30,e96443,904e95\&title_color=fff\&text_color=fff)
 
 
 <!--
