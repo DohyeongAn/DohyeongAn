@@ -27,5 +27,5 @@
 <br>
 <!-- IDE의 활동이 기록 -->
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DohyeongAn)](https://wakatime.com/@jogilsang)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DohyeongAn)](https://wakatime.com/@dodo)
 
